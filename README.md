@@ -1,2 +1,8 @@
 # My_project
-pratice my code
+
+## mingyi chou
+
+# Deportment 
+- administartion of pulic
+# purpose
+- learning code
